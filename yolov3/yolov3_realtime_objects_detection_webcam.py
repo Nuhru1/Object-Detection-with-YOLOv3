@@ -3,9 +3,9 @@ import time
 import cv2
 import os
 
-namesPath ="/home/nehru/Desktop/PyImage/yolo-object-detection/yolo-coco/coco.names"
-weightsPath ="/home/nehru/Desktop/PyImage/yolo-object-detection/yolo-coco/yolov3.weights"
-cfgPath ="/home/nehru/Desktop/PyImage/yolo-object-detection/yolo-coco/yolov3.cfg"
+namesPath ="path to your coco.names file"
+weightsPath ="path to your yolov3.weights file"
+cfgPath ="path to your yolov3.cfg file"
 
 LABELS = open(namesPath).read().strip().split("\n")
 
