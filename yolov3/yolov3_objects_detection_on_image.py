@@ -5,14 +5,13 @@ import time
 import os
 
 
-namesPath ="/home/nehru/Desktop/PyImage/yolo-object-detection/yolo-coco/coco.names"
-weightsPath ="/home/nehru/Desktop/PyImage/yolo-object-detection/yolo-coco/yolov3.weights"
-cfgPath ="/home/nehru/Desktop/PyImage/yolo-object-detection/yolo-coco/yolov3.cfg"
-
-#mgPath = "/home/nehru/Desktop/PyImage/yolo-object-detection/images/soccer.jpg"
+namesPath ="path to your coco.names file "
+weightsPath ="path to your yolov3.weights file "
+cfgPath =" path to your yolov3.cfg file "
 
 
-imgPath = "/home/nehru/Desktop/PyImage/yolo-object-detection/images/soccer.jpg"
+
+imgPath = "path to the images you want detect object on"
 
 # load the COCO class labels our YOLO model was trained on
 
