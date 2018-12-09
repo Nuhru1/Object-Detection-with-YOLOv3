@@ -1,6 +1,6 @@
 # Object-Detection-with-YOLOv3
 
-In this repository I implemented objects detection with yolov3
+In this repository I implemented objects detection with yolov3 on images and also in real-time using webcam 
 
 requirements: opencv 3.3 or above versions(opencv 3.2 or latest are not supported), you can coco.names file and yolov3 cfg 
 
