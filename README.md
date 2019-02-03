@@ -2,9 +2,9 @@
 
 In this repository I implemented objects detection with yolov3 on images and also in real-time using webcam 
 
-requirements: opencv 3.3 or later versions(opencv 3.2 or latest are not supported), you can coco.names file and yolov3 cfg 
+requirements: opencv 3.3 or later versions(opencv 3.2 or older versions are not supported), you can find coco.names file and yolov3 cfg 
 
-in the yolo-coco folder in this repo. But the weights file (yolov3.weights) need to be downloaded on this link:
+in the yolo-coco folder in this repo. But the weights file (yolov3.weights) can be found on this link:
 
 https://pjreddie.com/darknet/yolo/ .
 
